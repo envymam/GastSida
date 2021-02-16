@@ -736,19 +736,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Elmira\\.nuget\\packages\\": {}
+    "C:\\Users\\alto\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Elmira\\Source\\Repos\\GastSida\\SeaSharpHotel_Gäst\\SeaSharpHotel_Gäst.csproj",
+      "projectUniqueName": "C:\\Users\\alto\\Source\\Repos\\GastSida\\SeaSharpHotel_Gäst\\SeaSharpHotel_Gäst.csproj",
       "projectName": "SeaSharpHotel_Gäst",
-      "projectPath": "C:\\Users\\Elmira\\Source\\Repos\\GastSida\\SeaSharpHotel_Gäst\\SeaSharpHotel_Gäst.csproj",
-      "packagesPath": "C:\\Users\\Elmira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Elmira\\Source\\Repos\\GastSida\\SeaSharpHotel_Gäst\\obj\\",
+      "projectPath": "C:\\Users\\alto\\Source\\Repos\\GastSida\\SeaSharpHotel_Gäst\\SeaSharpHotel_Gäst.csproj",
+      "packagesPath": "C:\\Users\\alto\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alto\\Source\\Repos\\GastSida\\SeaSharpHotel_Gäst\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Elmira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alto\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -797,7 +797,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
